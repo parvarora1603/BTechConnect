@@ -21,7 +21,7 @@ BTech Connect is a platform that allows BTech students in India to connect with 
 
 ## Project Structure
 
-\`\`\`
+'''
 btech-connect/
 ├── app/                    # Next.js App Router
 │   ├── admin/              # Admin panel
@@ -50,8 +50,7 @@ btech-connect/
 └── supabase/               # Supabase migrations and functions
     ├── functions/          # Database functions
     └── migrations/         # Database migrations
-\`\`\`
-
+'''
 ## Setup Instructions
 
 ### Prerequisites
